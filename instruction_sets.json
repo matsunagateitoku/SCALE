@@ -1,0 +1,48 @@
+
+{
+    "total_words_options": [
+      500,
+      1000
+    ],
+    "focus_instructions": [
+      "Focus strictly on democracy-related initiatives.",
+      "Cover both domestic and international aspects of democracy promotion."
+    ],
+    "structure_instructions": [
+      "Write a structured report with introduction, body, and conclusion.",
+      "Use a 5-paragraph essay format to organize the content."
+    ],
+    "fact_instructions": [
+      "Include all relevant facts, dates, and statistics from the sources.",
+      "Do not summarize\u2014extract and present detailed facts only."
+    ],
+    "length_instructions": [
+      "Keep the report within {total_words} words, using as much relevant data as possible."
+    ],
+    "depth_instructions": [
+      "Go beyond surface-level claims\u2014explain context and significance of each point.",
+      "Highlight deeper motivations and consequences of each policy move."
+    ],
+    "opinion_instructions": [
+      "Form a clear, evidence-based conclusion from the documents.",
+      "Make your own judgment based on the strength of the evidence."
+    ],
+    "bias_instructions": [
+      "Acknowledge bias or limitations in the provided material.",
+      "Be alert to one-sided or unsupported claims and flag them."
+    ],
+    "citation_instructions": [
+      "You MUST cite your sources, especially for relevant sentences that answer the question. When using information that comes from the documents, use inline notation which refer to the Document ID (e.g. [Source: 1]). It is important to ensure that the Document ID is a valid string from the context and that the information in the sentence is present in the document. Do not include a list of citations at the end of the document"
+    ],
+    "tone_instructions": [
+      "Maintain an analytical and objective tone.",
+      "Use a professional and formal tone appropriate for academic readers."
+    ],
+    "formatting_instructions": [
+      "Write each sentence on a new line.",
+      "Do not include a bibliography or list of references at the end."
+    ],
+    "extra_instructions": [
+      "This report may impact graduate-level admissions\u2014take it seriously.",
+      "Assume today's date is used for time-sensitive analysis: 2025-07-02"
+    ]
